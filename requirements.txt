@@ -1,9 +1,6 @@
-# Install Apache Airflow and AWS providers
-# apache-airflow
+apache-airflow
 apache-airflow-providers-amazon
-
-# Install Faker for generating synthetic data
-# pip install faker
-
-# Install Boto3 for AWS interactions
+pyspark
+awscli
 boto3
+faker
