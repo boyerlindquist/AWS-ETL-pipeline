@@ -85,5 +85,4 @@ The ETL pipeline consists of the following steps:
   - `apache-airflow-providers-amazon`
   - `pyspark`
   - `awscli`
-  - `boto3`
   - `faker`
